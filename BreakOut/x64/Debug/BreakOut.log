@@ -1,0 +1,4 @@
+﻿  power_up.cpp
+D:\BreakOut_OpenGL\BreakOut\BreakOut\gameobject\game_object.h(13,1): warning C4005: 'GLEW_STATIC': macro redefinition
+D:\BreakOut_OpenGL\BreakOut\BreakOut\gameobject\game_object.h(13,1): message : 'GLEW_STATIC' previously declared on the command line
+  BreakOut.vcxproj -> D:\BreakOut_OpenGL\BreakOut\x64\Debug\BreakOut.exe
