@@ -1,1 +1,1 @@
-# BreakOut_OpenGL
+根据LearnOpengl最后的教程BreakOut制作的小游戏，使用OpenglAPI
